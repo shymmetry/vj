@@ -1,0 +1,752 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NestDropSettings>
+  <MainWindow
+    Top="48"
+    Left="39"
+    Width="1101"
+    Height="1032">
+    <Settings_General
+      Top="264"
+      Left="807"
+      Width="400"
+      Height="467"
+      OpenSettingsAtStart="False"
+      ShowName="False"
+      LoadPreview="True"
+      NbDecks="1"
+      ResyncOnPreset="True"
+      LogPerformanceHistory="False"
+      AutoSave="True"
+      QueueTopMost="True"
+      QueueMagnet="False"
+      RedBlue3D="False"
+      BpmModulateSpeed="True"
+      BpmModulateSpeedRef="128"
+      SpoutFirst="False"
+      AnimateZoom="True"
+      PreviewZoomSize="1.65"
+      DefaultAudioDevice="Out: S2719DGF (NVIDIA High Definition Audio)"
+      MidiOutputDevice=""
+      HardCutThreshold="100"
+      OscInputEnable="False"
+      OscOutputEnable="False"
+      OscPort="8000"
+      OscOutputPort="8001"
+      OscOutputIp="127.0.0.1"
+      AutoChangeInstant="True"
+      BeatThreshold="16"
+      ManualBPM="0"
+      UseAbleton="False"
+      AbletonMaster="False"
+      AutoChangeEnable="True"
+      ShuffleEnable="False"
+      AlwaysOnTop="False"
+      NdiSpriteEnable="True"
+      NdiExtraIP=""
+      NdiGroups="" />
+    <LibraryClosedSections />
+    <Settings_Deck1>
+      <DeckPanelsIsOpen
+        Value="1,0,0,0,0,1" />
+      <TransitTime
+        Value="2" />
+      <FPS
+        Value="30" />
+      <AnimSpeed
+        Value="1" />
+      <ZoomSpeed
+        Value="1" />
+      <ZoomExp
+        Value="1" />
+      <RotationSpeed
+        Value="1" />
+      <WrapSpeed
+        Value="1" />
+      <HorizonMotion
+        Value="0" />
+      <VerticalMotion
+        Value="0" />
+      <StretchSpeed
+        Value="1" />
+      <WaveMode
+        Value="0" />
+      <Audio
+        Channel="3"
+        Bass="1"
+        Mid="1"
+        Treble="1" />
+      <Spout
+        Width="1280"
+        Height="1280" />
+      <VideoDeck
+        Preview="4"
+        TopMost="False" />
+    </Settings_Deck1>
+    <Settings_Deck2>
+      <DeckPanelsIsOpen
+        Value="0,0,0,0,0,0" />
+      <TransitTime
+        Value="2" />
+      <FPS
+        Value="30" />
+      <AnimSpeed
+        Value="1" />
+      <ZoomSpeed
+        Value="1" />
+      <ZoomExp
+        Value="1" />
+      <RotationSpeed
+        Value="1" />
+      <WrapSpeed
+        Value="1" />
+      <HorizonMotion
+        Value="0" />
+      <VerticalMotion
+        Value="0" />
+      <StretchSpeed
+        Value="1" />
+      <WaveMode
+        Value="0" />
+      <Audio
+        Channel="3"
+        Bass="1"
+        Mid="1"
+        Treble="1" />
+      <Spout
+        Width="1920"
+        Height="1080" />
+      <VideoDeck
+        Preview="4"
+        TopMost="False" />
+    </Settings_Deck2>
+    <Settings_Deck3>
+      <DeckPanelsIsOpen
+        Value="0,0,0,0,0,0" />
+      <TransitTime
+        Value="2" />
+      <FPS
+        Value="30" />
+      <AnimSpeed
+        Value="1" />
+      <ZoomSpeed
+        Value="1" />
+      <ZoomExp
+        Value="1" />
+      <RotationSpeed
+        Value="1" />
+      <WrapSpeed
+        Value="1" />
+      <HorizonMotion
+        Value="0" />
+      <VerticalMotion
+        Value="0" />
+      <StretchSpeed
+        Value="1" />
+      <WaveMode
+        Value="0" />
+      <Audio
+        Channel="3"
+        Bass="1"
+        Mid="1"
+        Treble="1" />
+      <Spout
+        Width="1920"
+        Height="1080" />
+      <VideoDeck
+        Preview="4"
+        TopMost="False" />
+    </Settings_Deck3>
+    <Settings_Deck4>
+      <DeckPanelsIsOpen
+        Value="0,0,0,0,0,0" />
+      <TransitTime
+        Value="2" />
+      <FPS
+        Value="30" />
+      <AnimSpeed
+        Value="1" />
+      <ZoomSpeed
+        Value="1" />
+      <ZoomExp
+        Value="1" />
+      <RotationSpeed
+        Value="1" />
+      <WrapSpeed
+        Value="1" />
+      <HorizonMotion
+        Value="0" />
+      <VerticalMotion
+        Value="0" />
+      <StretchSpeed
+        Value="1" />
+      <WaveMode
+        Value="0" />
+      <Audio
+        Channel="3"
+        Bass="1"
+        Mid="1"
+        Treble="1" />
+      <Spout
+        Width="1920"
+        Height="1080" />
+      <VideoDeck
+        Preview="4"
+        TopMost="False" />
+    </Settings_Deck4>
+  </MainWindow>
+  <QueueWindows>
+    <Queue1
+      Name="Queue1"
+      Top="316"
+      Left="1154"
+      Width="810"
+      Height="755"
+      Type="1"
+      Deck="1"
+      Open="True"
+      AlwaysOnTop="True"
+      Magnetic="False"
+      BeatOffset="1"
+      BeatMulti="1"
+      DefaultSpriteOverlay="-1"
+      Active="True"
+      IsFileExplorer="False"
+      FileExplorerPath="">
+      <Presets>
+        <Preset
+          Id="1"
+          Type="1"
+          Name="$$$ Royal - Mashup (259).milk" />
+        <Preset
+          Id="2"
+          Type="1"
+          Name="martin - stratospheric turbulences.milk" />
+        <Preset
+          Id="3"
+          Type="1"
+          Name="$$$ Royal - Mashup (259).milk" />
+        <Preset
+          Id="4"
+          Type="1"
+          Name="Jc - Crystal Shards.milk" />
+        <Preset
+          Id="5"
+          Type="1"
+          Name="424.milk" />
+        <Preset
+          Id="6"
+          Type="1"
+          Name="EoS + Phat - chasers 14 sentinel 616.milk" />
+        <Preset
+          Id="7"
+          Type="1"
+          Name="EoS + Phat - chasers 14 sentinel 616_Update.milk" />
+        <Preset
+          Id="8"
+          Type="1"
+          Name="EoS + Phat - chasers 11 sentinel C (Jelly V2).milk" />
+        <Preset
+          Id="9"
+          Type="1"
+          Name="176.milk" />
+        <Preset
+          Id="10"
+          Type="1"
+          Name="255.milk" />
+        <Preset
+          Id="11"
+          Type="1"
+          Name="451.milk" />
+        <Preset
+          Id="12"
+          Type="1"
+          Name="003.milk" />
+        <Preset
+          Id="13"
+          Type="1"
+          Name="amandio c - green machinery 2 martin says jump, amandioq says how HI jesusk.milk" />
+        <Preset
+          Id="14"
+          Type="1"
+          Name="$$$ Royal - Mashup (220).milk" />
+        <Preset
+          Id="15"
+          Type="1"
+          Name="martin - stratospheric turbulences.milk" />
+        <Preset
+          Id="16"
+          Type="1"
+          Name="dumpling antler melon sage.milk" />
+        <Preset
+          Id="17"
+          Type="1"
+          Name="quintropedantix.milk" />
+        <Preset
+          Id="18"
+          Type="1"
+          Name="amandio c - the green machine 4 - radial nature sludge super.milk" />
+        <Preset
+          Id="19"
+          Type="1"
+          Name="Hexcollie - Curly Que.milk" />
+        <Preset
+          Id="20"
+          Type="1"
+          Name="beta106i - Potion of Ink.milk" />
+        <Preset
+          Id="21"
+          Type="1"
+          Name="EoS + Phat - Emergent factors.milk" />
+        <Preset
+          Id="22"
+          Type="1"
+          Name="hexcollie - Black Hole.milk" />
+        <Preset
+          Id="23"
+          Type="1"
+          Name="Rovastar - Shango 1.milk" />
+        <Preset
+          Id="24"
+          Type="1"
+          Name="va ultramix - 32.milk" />
+        <Preset
+          Id="25"
+          Type="1"
+          Name="va ultramix2 - 446.milk" />
+        <Preset
+          Id="26"
+          Type="1"
+          Name="LuX - Heavy Texture Trip 1_a.milk" />
+        <Preset
+          Id="27"
+          Type="1"
+          Name="Nivush - Crazy Diamonds.milk" />
+        <Preset
+          Id="28"
+          Type="1"
+          Name="stahlregen - spiral (oh god my eyes, it burns! 2).milk" />
+        <Preset
+          Id="29"
+          Type="1"
+          Name="yin - 350 - Chromatron.milk" />
+        <Preset
+          Id="30"
+          Type="1"
+          Name="Phat + EoS - Blackout_Spinner_Video_Echo.milk" />
+        <Preset
+          Id="31"
+          Type="1"
+          Name="redi jedi - phun with fractals 2-4(beta).milk" />
+        <Preset
+          Id="32"
+          Type="1"
+          Name="redi jedi - phun with fractals 2-4(beta5).milk" />
+        <Preset
+          Id="33"
+          Type="1"
+          Name="martin - the bridge of khazad-dum [flexi's growth raised to the power of transcendence mix].milk" />
+        <Preset
+          Id="34"
+          Type="1"
+          Name="Phat_Aderrasi - Chromatic Abyss (the other side)_PhatColours3.milk" />
+        <Preset
+          Id="35"
+          Type="1"
+          Name="Phat_Aderrasi - Chromatic Abyss (the other side)_PhatColours6 (Jelly 5-55).milk" />
+        <Preset
+          Id="36"
+          Type="1"
+          Name="Phat_Aderrasi - Chromatic Abyss (the other side)_remix.milk" />
+        <Preset
+          Id="37"
+          Type="1"
+          Name="stahlregen &amp; bdrv + geiss + shifter - hypno swirl (mashup 38 - random tex crawl).milk" />
+        <Preset
+          Id="38"
+          Type="1"
+          Name="Stahlregen - Paint (Proof of Concept 2 - Spiral).milk" />
+        <Preset
+          Id="39"
+          Type="1"
+          Name="Hexcollie - Bottlecap.milk" />
+        <Preset
+          Id="40"
+          Type="1"
+          Name="Zylot - Vivocity (Eos waveform++).milk" />
+        <Preset
+          Id="41"
+          Type="1"
+          Name="PieturP - HSL-here-we-go-circle.milk" />
+        <Preset
+          Id="42"
+          Type="1"
+          Name="Shifter-yak(yetanotherkaleidoscope)02.milk" />
+        <Preset
+          Id="43"
+          Type="1"
+          Name="Stahlregen &amp; Boz + EoS + Geiss + martin + Phat + Rovastar + Zylot - Machine Code (Charmed Tile Mix) nz2.milk" />
+        <Preset
+          Id="44"
+          Type="1"
+          Name="amandio c - new life a.milk" />
+        <Preset
+          Id="45"
+          Type="1"
+          Name="Aderrasi - Potion of Spirits.milk" />
+        <Preset
+          Id="46"
+          Type="1"
+          Name="Flexi - mindblob 2-0 [caleidoscope mix].milk" />
+        <Preset
+          Id="47"
+          Type="1"
+          Name="Flexi and AdamFX - mindblob 2-0 - kaleidoscope mix b.milk" />
+        <Preset
+          Id="48"
+          Type="1"
+          Name="Hexcollie, Suksma n Flexi - Squidypus.milk" />
+        <Preset
+          Id="49"
+          Type="1"
+          Name="Jc - Neon Star Formation.milk" />
+        <Preset
+          Id="50"
+          Type="1"
+          Name="out of the paradigm nz bulbuless.milk" />
+        <Preset
+          Id="51"
+          Type="1"
+          Name="Rarian Rakista - Supernova in Blue.milk" />
+        <Preset
+          Id="52"
+          Type="1"
+          Name="Rovastar - Ritual Halostar.milk" />
+        <Preset
+          Id="53"
+          Type="1"
+          Name="Serge + martin - crystal palace kad002.milk" />
+        <Preset
+          Id="54"
+          Type="1"
+          Name="suksma - barium titanate --- Isosceles edit03.milk" />
+        <Preset
+          Id="55"
+          Type="1"
+          Name="suksma - kumron.milk" />
+        <Preset
+          Id="56"
+          Type="1"
+          Name="suksma - receiving mail is degrading.milk" />
+        <Preset
+          Id="57"
+          Type="1"
+          Name="suksma - sun pod gambit couch - flx infinity within a finite boundary --- Isosceles edit5.milk" />
+        <Preset
+          Id="58"
+          Type="1"
+          Name="suksma - sun pod gambit couch - flx infinity within a finite boundary --- Isosceles edit7.milk" />
+        <Preset
+          Id="59"
+          Type="1"
+          Name="Tripgnosis - Psychotropic Overload.milk" />
+        <Preset
+          Id="60"
+          Type="1"
+          Name="ORB - Stahl - Tentacle Eyeball - horror glamour.milk" />
+        <Preset
+          Id="61"
+          Type="1"
+          Name="suksma - messing with self until madness.milk" />
+        <Preset
+          Id="62"
+          Type="1"
+          Name="cope + geiss + stahlregen - cartune (bending gelatine mix).milk" />
+        <Preset
+          Id="63"
+          Type="1"
+          Name="NeW Adam Master Mashup FX 2 Geiss - Reaction Diffusion 34 + Geiss and Zylot + Shifter + Nil + Work with lines .milk" />
+        <Preset
+          Id="77"
+          Type="1"
+          Name="suksma - n19 - othello.milk" />
+        <Preset
+          Id="78"
+          Type="1"
+          Name="memosa does not hide behind lies.milk" />
+        <Preset
+          Id="64"
+          Type="1"
+          Name="suksma - emulsionary tract.milk" />
+        <Preset
+          Id="65"
+          Type="1"
+          Name="amandio c - the green machine 2 skin lard bone beacon nz+ btbam covers sepultura.milk" />
+        <Preset
+          Id="66"
+          Type="1"
+          Name="goody + martin - crystal palace - schizotoxin - the wild iris bloom - 16 iterations.milk" />
+        <Preset
+          Id="67"
+          Type="1"
+          Name="goody + martin - crystal palace - schizotoxin - the wild iris bloom - 16 iterations5.milk" />
+        <Preset
+          Id="68"
+          Type="1"
+          Name="Goody + martin - crystal palace - Schizotoxin - The Wild Iris Bloom - Darkening mathematics.milk" />
+        <Preset
+          Id="69"
+          Type="1"
+          Name="Goody + martin - crystal palace - Schizotoxin - The Wild Iris Bloom.milk" />
+        <Preset
+          Id="70"
+          Type="1"
+          Name="Goody + martin - crystal palace - Taken.milk" />
+        <Preset
+          Id="76"
+          Type="1"
+          Name="EVET - Waterrgate.milk" />
+        <Preset
+          Id="71"
+          Type="1"
+          Name="Serge + martin - crystal palace star000.milk" />
+        <Preset
+          Id="72"
+          Type="1"
+          Name="Serge + martin - crystal palace star001.milk" />
+        <Preset
+          Id="73"
+          Type="1"
+          Name="Serge + martin - crystal palace star002.milk" />
+        <Preset
+          Id="74"
+          Type="1"
+          Name="Serge + martin - crystal palace001c.milk" />
+        <Preset
+          Id="75"
+          Type="1"
+          Name="Starz in MilkHDFX - Stahlregen &amp; Aderrasi + EoS + Geiss + Unchained + Zylot + Flexi + Martin + AdamFX E.milk" />
+      </Presets>
+    </Queue1>
+  </QueueWindows>
+  <FavoriteList>
+    <Favorite1>
+      <Preset
+        Name="$$$ Royal - Mashup (259).milk" />
+      <Preset
+        Name="Jc - Crystal Shards.milk" />
+      <Preset
+        Name="424.milk" />
+      <Preset
+        Name="EoS + Phat - chasers 14 sentinel 616.milk" />
+      <Preset
+        Name="EoS + Phat - chasers 14 sentinel 616_Update.milk" />
+      <Preset
+        Name="EoS + Phat - chasers 11 sentinel C (Jelly V2).milk" />
+      <Preset
+        Name="176.milk" />
+      <Preset
+        Name="255.milk" />
+      <Preset
+        Name="451.milk" />
+      <Preset
+        Name="003.milk" />
+      <Preset
+        Name="amandio c - green machinery 2 martin says jump, amandioq says how HI jesusk.milk" />
+      <Preset
+        Name="$$$ Royal - Mashup (220).milk" />
+      <Preset
+        Name="martin - stratospheric turbulences.milk" />
+      <Preset
+        Name="dumpling antler melon sage.milk" />
+      <Preset
+        Name="quintropedantix.milk" />
+      <Preset
+        Name="amandio c - the green machine 4 - radial nature sludge super.milk" />
+      <Preset
+        Name="Hexcollie - Curly Que.milk" />
+      <Preset
+        Name="beta106i - Potion of Ink.milk" />
+      <Preset
+        Name="EoS + Phat - Emergent factors.milk" />
+      <Preset
+        Name="hexcollie - Black Hole.milk" />
+      <Preset
+        Name="Rovastar - Shango 1.milk" />
+      <Preset
+        Name="va ultramix - 32.milk" />
+      <Preset
+        Name="va ultramix2 - 446.milk" />
+      <Preset
+        Name="LuX - Heavy Texture Trip 1_a.milk" />
+      <Preset
+        Name="Nivush - Crazy Diamonds.milk" />
+      <Preset
+        Name="stahlregen - spiral (oh god my eyes, it burns! 2).milk" />
+      <Preset
+        Name="yin - 350 - Chromatron.milk" />
+      <Preset
+        Name="Phat + EoS - Blackout_Spinner_Video_Echo.milk" />
+      <Preset
+        Name="redi jedi - phun with fractals 2-4(beta).milk" />
+      <Preset
+        Name="redi jedi - phun with fractals 2-4(beta5).milk" />
+      <Preset
+        Name="martin - the bridge of khazad-dum [flexi's growth raised to the power of transcendence mix].milk" />
+      <Preset
+        Name="Phat_Aderrasi - Chromatic Abyss (the other side)_PhatColours3.milk" />
+      <Preset
+        Name="Phat_Aderrasi - Chromatic Abyss (the other side)_PhatColours6 (Jelly 5-55).milk" />
+      <Preset
+        Name="Phat_Aderrasi - Chromatic Abyss (the other side)_remix.milk" />
+      <Preset
+        Name="stahlregen &amp; bdrv + geiss + shifter - hypno swirl (mashup 38 - random tex crawl).milk" />
+      <Preset
+        Name="Stahlregen - Paint (Proof of Concept 2 - Spiral).milk" />
+      <Preset
+        Name="Hexcollie - Bottlecap.milk" />
+      <Preset
+        Name="Zylot - Vivocity (Eos waveform++).milk" />
+      <Preset
+        Name="PieturP - HSL-here-we-go-circle.milk" />
+      <Preset
+        Name="Shifter-yak(yetanotherkaleidoscope)02.milk" />
+      <Preset
+        Name="Stahlregen &amp; Boz + EoS + Geiss + martin + Phat + Rovastar + Zylot - Machine Code (Charmed Tile Mix) nz2.milk" />
+      <Preset
+        Name="amandio c - new life a.milk" />
+      <Preset
+        Name="Aderrasi - Potion of Spirits.milk" />
+      <Preset
+        Name="Flexi - mindblob 2-0 [caleidoscope mix].milk" />
+      <Preset
+        Name="Flexi and AdamFX - mindblob 2-0 - kaleidoscope mix b.milk" />
+      <Preset
+        Name="Hexcollie, Suksma n Flexi - Squidypus.milk" />
+      <Preset
+        Name="Jc - Neon Star Formation.milk" />
+      <Preset
+        Name="out of the paradigm nz bulbuless.milk" />
+      <Preset
+        Name="Rarian Rakista - Supernova in Blue.milk" />
+      <Preset
+        Name="Rovastar - Ritual Halostar.milk" />
+      <Preset
+        Name="Serge + martin - crystal palace kad002.milk" />
+      <Preset
+        Name="suksma - barium titanate --- Isosceles edit03.milk" />
+      <Preset
+        Name="suksma - kumron.milk" />
+      <Preset
+        Name="suksma - receiving mail is degrading.milk" />
+      <Preset
+        Name="suksma - sun pod gambit couch - flx infinity within a finite boundary --- Isosceles edit5.milk" />
+      <Preset
+        Name="suksma - sun pod gambit couch - flx infinity within a finite boundary --- Isosceles edit7.milk" />
+      <Preset
+        Name="Tripgnosis - Psychotropic Overload.milk" />
+      <Preset
+        Name="ORB - Stahl - Tentacle Eyeball - horror glamour.milk" />
+      <Preset
+        Name="suksma - messing with self until madness.milk" />
+      <Preset
+        Name="cope + geiss + stahlregen - cartune (bending gelatine mix).milk" />
+      <Preset
+        Name="NeW Adam Master Mashup FX 2 Geiss - Reaction Diffusion 34 + Geiss and Zylot + Shifter + Nil + Work with lines .milk" />
+      <Preset
+        Name="suksma - emulsionary tract.milk" />
+      <Preset
+        Name="amandio c - the green machine 2 skin lard bone beacon nz+ btbam covers sepultura.milk" />
+      <Preset
+        Name="goody + martin - crystal palace - schizotoxin - the wild iris bloom - 16 iterations.milk" />
+      <Preset
+        Name="goody + martin - crystal palace - schizotoxin - the wild iris bloom - 16 iterations5.milk" />
+      <Preset
+        Name="Goody + martin - crystal palace - Schizotoxin - The Wild Iris Bloom - Darkening mathematics.milk" />
+      <Preset
+        Name="Goody + martin - crystal palace - Schizotoxin - The Wild Iris Bloom.milk" />
+      <Preset
+        Name="Goody + martin - crystal palace - Taken.milk" />
+      <Preset
+        Name="Serge + martin - crystal palace star000.milk" />
+      <Preset
+        Name="Serge + martin - crystal palace star001.milk" />
+      <Preset
+        Name="Serge + martin - crystal palace star002.milk" />
+      <Preset
+        Name="Serge + martin - crystal palace001c.milk" />
+      <Preset
+        Name="Starz in MilkHDFX - Stahlregen &amp; Aderrasi + EoS + Geiss + Unchained + Zylot + Flexi + Martin + AdamFX E.milk" />
+      <Preset
+        Name="EVET - Waterrgate.milk" />
+      <Preset
+        Name="Syst3mFailur - phat - EoS planetfunk-tracers(devilglobe-1).milk" />
+      <Preset
+        Name="Waltra - Worm Hole.milk" />
+      <Preset
+        Name="yin - 250 - Artificial poles of the continuum_Phat's_star_mix.milk" />
+      <Preset
+        Name="amandio c - dark side of the sun 1.milk" />
+      <Preset
+        Name="amandio c - dark side of the sun 2.milk" />
+      <Preset
+        Name="EVET - Hologram Liquorice.milk" />
+      <Preset
+        Name="Zylot - Sound Blossom (Lotus Mix).milk" />
+      <Preset
+        Name="Zylot and Geiss - Enlightenment.milk" />
+      <Preset
+        Name="EoS - starburst 01.milk" />
+      <Preset
+        Name="EoS - starburst 02 charging.milk" />
+      <Preset
+        Name="EoS - starburst 03 charged.milk" />
+      <Preset
+        Name="EoS - starburst 04 double charge.milk" />
+      <Preset
+        Name="EoS - starburst 05 phasing.milk" />
+      <Preset
+        Name="EoS - starburst 06 tracing.milk" />
+      <Preset
+        Name="EoS - starburst 07 tracing points.milk" />
+      <Preset
+        Name="Tripgnosis - Manastar.milk" />
+      <Preset
+        Name="suksma - n19 - othello.milk" />
+      <Preset
+        Name="memosa does not hide behind lies.milk" />
+    </Favorite1>
+    <Favorite2>
+      <Preset
+        Name="$$$ Royal - Mashup (189).milk" />
+      <Preset
+        Name="Isosceles mashup19.milk" />
+      <Preset
+        Name="stahlregen + flexi - spiral beats [rabbit hole]_4.milk" />
+      <Preset
+        Name="Hexcollie n Fvese - The Photosynthetic jelly fish.milk" />
+      <Preset
+        Name="Rovastar + shifter + Geiss + martin - gordian knot.milk" />
+      <Preset
+        Name="Stahlregen &amp; Aderrasi + EoS + Geiss + fiShbRaiN - Prickly Abyss.milk" />
+      <Preset
+        Name="AdamFX 2 Geiss - Mash-Up Sphere Xibit Graffiti Warp me Tydye7.milk" />
+      <Preset
+        Name="suksma - Rocke - Answer42 (New Mix 1) - mash0000 - slash and char jungle.milk" />
+      <Preset
+        Name="shut down all survival paradigms.milk" />
+      <Preset
+        Name="suksma - khemikal derivativeraciticide --- Isosceles edit.milk" />
+      <Preset
+        Name="suksma - let them ete kace.milk" />
+      <Preset
+        Name="suksma - lick salad dry --- Isosceles edit.milk" />
+    </Favorite2>
+    <Favorite3 />
+    <Favorite4 />
+    <Favorite5 />
+  </FavoriteList>
+  <HotKeyList />
+  <CommentsList />
+  <EffectsList />
+  <AnimSpeedList />
+</NestDropSettings>
